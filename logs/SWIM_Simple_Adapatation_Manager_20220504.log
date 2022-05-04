@@ -1,0 +1,64 @@
+2022-05-04 15:51:31 DEBUG Logger Initialized
+2022-05-04 15:51:31 INFO running the adaptation effector module
+2022-05-04 15:52:24 DEBUG Logger Initialized
+2022-05-04 15:52:25 INFO running the adaptation effector module
+2022-05-04 15:52:25 INFO Inside the Analyzer: Performing the analysis
+2022-05-04 15:52:25 INFO  The response time above threshold -- Initializing Planner
+2022-05-04 15:52:25 ERROR name 'rl_obj' is not defined
+2022-05-04 15:52:34 DEBUG Logger Initialized
+2022-05-04 15:52:34 INFO running the adaptation effector module
+2022-05-04 15:52:34 INFO Inside the Analyzer: Performing the analysis
+2022-05-04 15:52:34 INFO  The response time above threshold -- Initializing Planner
+2022-05-04 15:52:34 INFO Inside the planner: Generating the adaptation plan
+2022-05-04 15:52:34 INFO calculating the utility values
+2022-05-04 15:52:34 ERROR [Errno 2] No such file or directory: 'adap_status.json'
+2022-05-04 15:52:48 DEBUG Logger Initialized
+2022-05-04 15:52:48 INFO running the adaptation effector module
+2022-05-04 15:52:49 INFO Inside the Analyzer: Performing the analysis
+2022-05-04 15:52:49 INFO  The response time above threshold -- Initializing Planner
+2022-05-04 15:52:49 INFO Inside the planner: Generating the adaptation plan
+2022-05-04 15:52:49 INFO calculating the utility values
+2022-05-04 15:52:49 INFO Current dimmer value 0.9
+2022-05-04 15:52:49 INFO  dimmer flag status, increase : decrease True : True
+2022-05-04 15:52:49 INFO Inside the Executor: executing the adaptations
+2022-05-04 15:52:49 INFO inside change dimer module, change flag decrease
+2022-05-04 15:53:49 INFO Inside the Analyzer: Performing the analysis
+2022-05-04 15:53:49 INFO  The response time above threshold -- Initializing Planner
+2022-05-04 15:53:49 INFO Inside the planner: Generating the adaptation plan
+2022-05-04 15:53:49 INFO calculating the utility values
+2022-05-04 15:53:49 INFO Current dimmer value 0.8
+2022-05-04 15:53:49 INFO  dimmer flag status, increase : decrease True : True
+2022-05-04 15:53:49 INFO Inside the Executor: executing the adaptations
+2022-05-04 15:53:49 INFO inside change dimer module, change flag decrease
+2022-05-04 15:54:50 INFO Inside the Analyzer: Performing the analysis
+2022-05-04 15:54:50 INFO  The response time above threshold -- Initializing Planner
+2022-05-04 15:54:50 INFO Inside the planner: Generating the adaptation plan
+2022-05-04 15:54:50 INFO calculating the utility values
+2022-05-04 15:54:50 INFO Current dimmer value 0.7
+2022-05-04 15:54:50 INFO  dimmer flag status, increase : decrease True : True
+2022-05-04 15:54:50 INFO Inside the Executor: executing the adaptations
+2022-05-04 15:54:50 INFO inside change dimer module, change flag decrease
+2022-05-04 15:55:51 INFO Inside the Analyzer: Performing the analysis
+2022-05-04 15:55:51 INFO  The response time above threshold -- Initializing Planner
+2022-05-04 15:55:51 INFO Inside the planner: Generating the adaptation plan
+2022-05-04 15:55:51 INFO calculating the utility values
+2022-05-04 15:55:51 INFO Current dimmer value 0.6
+2022-05-04 15:55:51 INFO  dimmer flag status, increase : decrease True : True
+2022-05-04 15:55:51 INFO Inside the Executor: executing the adaptations
+2022-05-04 15:55:51 INFO inside change dimer module, change flag decrease
+2022-05-04 15:56:51 INFO Inside the Analyzer: Performing the analysis
+2022-05-04 15:56:51 INFO  The response time above threshold -- Initializing Planner
+2022-05-04 15:56:51 INFO Inside the planner: Generating the adaptation plan
+2022-05-04 15:56:51 INFO calculating the utility values
+2022-05-04 15:56:51 INFO Current dimmer value 0.5
+2022-05-04 15:56:51 INFO  dimmer flag status, increase : decrease True : True
+2022-05-04 15:56:51 INFO Inside the Executor: executing the adaptations
+2022-05-04 15:56:51 INFO inside change dimer module, change flag decrease
+2022-05-04 15:57:51 INFO Inside the Analyzer: Performing the analysis
+2022-05-04 15:57:51 INFO  The response time above threshold -- Initializing Planner
+2022-05-04 15:57:51 INFO Inside the planner: Generating the adaptation plan
+2022-05-04 15:57:51 INFO calculating the utility values
+2022-05-04 15:57:51 INFO Current dimmer value 0.4
+2022-05-04 15:57:51 INFO  dimmer flag status, increase : decrease True : True
+2022-05-04 15:57:51 INFO Inside the Executor: executing the adaptations
+2022-05-04 15:57:51 INFO inside change dimer module, change flag decrease
